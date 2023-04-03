@@ -11,7 +11,7 @@ let receitas = [ //JSON
   },
   {
       "titulo": "Bolo de Café",
-      "imagem": "../Assets/Bolo.png",
+      "imagem": "../Assets/BoloCafe.png",
       "ingredientes": ['Farinha de Trigo',
       'Açúcar',
       'Café Coado',
