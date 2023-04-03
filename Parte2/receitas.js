@@ -1,7 +1,7 @@
 let receitas = [ //JSON
   {
       "titulo": "Arroz de Couve-Flor",
-      "imagem": "../assets/Arroz.jpg",
+      "imagem": "../assets/Arroz.png",
       "ingredientes": ['Arroz',
       'Couve-Flor',
       'Cebola Media',
@@ -11,7 +11,7 @@ let receitas = [ //JSON
   },
   {
       "titulo": "Bolo de Café",
-      "imagem": "../Assets/BoloCafe.jpg",
+      "imagem": "../assets/BoloCafe.png",
       "ingredientes": ['Farinha de Trigo',
       'Açúcar',
       'Café Coado',
@@ -21,7 +21,7 @@ let receitas = [ //JSON
   },
   {
     "titulo": "Coxinha de Brigadeiro",
-    "imagem": "../assets/Coxinha.jpg",
+    "imagem": "../assets/Coxinha.png",
     "ingredientes": ['Leite COndensado',
     'Chocolate em Pó',
     'Manteiga',
